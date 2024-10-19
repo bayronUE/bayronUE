@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying System's Engineering <br>👯 I’m looking to collaborate on android projects<br>🌱 I’m currently learning kotlin and android development in android studio<br>⚡ I like to play chess and I consider myself an outgoing person
+🦝Hey, I'm Bayron, I speak english, spanish and a little bit of german <br>🔭 I’m currently studying Systems Engineering <br>👯 I’m looking to collaborate on Android projects<br>🌱 I’m currently learning Kotlin and android development in Android studio<br>⚡ I like to play chess and I consider myself an outgoing person
 
 
 ## 🌐 Socials:
